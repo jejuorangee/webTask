@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # webTest
 마지막 git연습
 
@@ -8,3 +9,6 @@
 ## 5. main 브랜치로 이동한 후 병합하기
 ## 6. 최종 결과 파일 html파일, css파일, java파일 + 클론딴 모든 파일 있어야함
 
+=======
+# webTask
+>>>>>>> cfefdb48b4ee9fc2879e3c117f3dde70e4ab1291
